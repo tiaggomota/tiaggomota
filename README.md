@@ -1,6 +1,6 @@
 ### Oi, Meu nome é Tiago 🙃
 
-<div align="center">
+<div align="center" display="flex">
   <a href="https://github.com/tiagmota">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tiagmota&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagmota&layout=compact&langs_count=7&theme=aura"/>
