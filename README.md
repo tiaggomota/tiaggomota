@@ -1,4 +1,4 @@
-### Oi, Meu nome é Tiago Mota🙃
+### Oi, Meu nome é Tiago
 
 <div align="center">
   <a href="https://github.com/tiagmota">
